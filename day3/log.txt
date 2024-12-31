@@ -1,0 +1,2272 @@
+
+		 INICIANDO LOOP 
+
+
+ Len(data):  19620
+ dont_end:  745
+ do_end:  79
+ Loop: Len(amostra):  745
+ Amostra válida armazenada:  mul(417,528)
+ Amostra válida armazenada:  mul(215,18)
+ Amostra válida armazenada:  mul(89,59)
+ Amostra válida armazenada:  mul(709,138)
+ Amostra válida armazenada:  mul(548,826)
+ Amostra válida armazenada:  mul(103,952)
+ Amostra válida armazenada:  mul(322,877)
+ Amostra válida armazenada:  mul(378,598)
+ Amostra válida armazenada:  mul(695,169)
+ Amostra válida armazenada:  mul(12,677)
+ Amostra válida armazenada:  mul(911,924)
+ Amostra válida armazenada:  mul(12,238)
+ Amostra válida armazenada:  mul(17,995)
+ Amostra válida armazenada:  mul(619,259)
+ Amostra válida armazenada:  mul(477,46)
+ Amostra válida armazenada:  mul(471,687)
+ Amostra válida armazenada:  mul(683,261)
+ Amostra válida armazenada:  mul(59,43)
+ Amostra válida armazenada:  mul(396,135)
+ Amostra válida armazenada:  mul(593,130)
+ Amostra válida armazenada:  mul(189,802)
+ Amostra válida armazenada:  mul(315,986)
+ Amostra válida armazenada:  mul(408,692)
+ Amostra válida armazenada:  mul(547,681)
+ Amostra válida armazenada:  mul(748,448)
+ Amostra válida armazenada:  mul(686,701)
+ Amostra válida armazenada:  mul(14,551)
+ Amostra válida armazenada:  mul(405,549)
+ Amostra válida armazenada:  mul(639,826)
+ Processada a amostra e armazenadas as expressões válidas
+ Atualizados os dados em 'data'
+
+ Len(data):  19541
+ dont_end:  666
+ do_end:  815
+ Loop: Len(amostra):  666
+ Amostra válida armazenada:  mul(89,59)
+ Amostra válida armazenada:  mul(709,138)
+ Amostra válida armazenada:  mul(548,826)
+ Amostra válida armazenada:  mul(103,952)
+ Amostra válida armazenada:  mul(322,877)
+ Amostra válida armazenada:  mul(378,598)
+ Amostra válida armazenada:  mul(695,169)
+ Amostra válida armazenada:  mul(12,677)
+ Amostra válida armazenada:  mul(911,924)
+ Amostra válida armazenada:  mul(12,238)
+ Amostra válida armazenada:  mul(17,995)
+ Amostra válida armazenada:  mul(619,259)
+ Amostra válida armazenada:  mul(477,46)
+ Amostra válida armazenada:  mul(471,687)
+ Amostra válida armazenada:  mul(683,261)
+ Amostra válida armazenada:  mul(59,43)
+ Amostra válida armazenada:  mul(396,135)
+ Amostra válida armazenada:  mul(593,130)
+ Amostra válida armazenada:  mul(189,802)
+ Amostra válida armazenada:  mul(315,986)
+ Amostra válida armazenada:  mul(408,692)
+ Amostra válida armazenada:  mul(547,681)
+ Amostra válida armazenada:  mul(748,448)
+ Amostra válida armazenada:  mul(686,701)
+ Amostra válida armazenada:  mul(14,551)
+ Amostra válida armazenada:  mul(405,549)
+ Amostra válida armazenada:  mul(639,826)
+ Processada a amostra e armazenadas as expressões válidas
+ Atualizados os dados em 'data'
+
+ Len(data):  18726
+ dont_end:  604
+ do_end:  107
+ Loop: Len(amostra):  604
+ Amostra válida armazenada:  mul(87,111)
+ Amostra válida armazenada:  mul(891,433)
+ Amostra válida armazenada:  mul(87,681)
+ Amostra válida armazenada:  mul(753,736)
+ Amostra válida armazenada:  mul(469,856)
+ Amostra válida armazenada:  mul(51,85)
+ Amostra válida armazenada:  mul(877,991)
+ Amostra válida armazenada:  mul(127,485)
+ Amostra válida armazenada:  mul(41,26)
+ Amostra válida armazenada:  mul(780,997)
+ Amostra válida armazenada:  mul(155,624)
+ Amostra válida armazenada:  mul(181,7)
+ Amostra válida armazenada:  mul(742,580)
+ Amostra válida armazenada:  mul(370,366)
+ Amostra válida armazenada:  mul(943,740)
+ Amostra válida armazenada:  mul(811,357)
+ Amostra válida armazenada:  mul(680,308)
+ Amostra válida armazenada:  mul(437,895)
+ Amostra válida armazenada:  mul(556,541)
+ Amostra válida armazenada:  mul(742,271)
+ Amostra válida armazenada:  mul(495,834)
+ Amostra válida armazenada:  mul(623,691)
+ Amostra válida armazenada:  mul(755,380)
+ Amostra válida armazenada:  mul(496,505)
+ Amostra válida armazenada:  mul(447,864)
+ Amostra válida armazenada:  mul(672,810)
+ Amostra válida armazenada:  mul(631,935)
+ Processada a amostra e armazenadas as expressões válidas
+ Atualizados os dados em 'data'
+
+ Len(data):  18619
+ dont_end:  497
+ do_end:  59
+ Loop: Len(amostra):  497
+ Amostra válida armazenada:  mul(877,991)
+ Amostra válida armazenada:  mul(127,485)
+ Amostra válida armazenada:  mul(41,26)
+ Amostra válida armazenada:  mul(780,997)
+ Amostra válida armazenada:  mul(155,624)
+ Amostra válida armazenada:  mul(181,7)
+ Amostra válida armazenada:  mul(742,580)
+ Amostra válida armazenada:  mul(370,366)
+ Amostra válida armazenada:  mul(943,740)
+ Amostra válida armazenada:  mul(811,357)
+ Amostra válida armazenada:  mul(680,308)
+ Amostra válida armazenada:  mul(437,895)
+ Amostra válida armazenada:  mul(556,541)
+ Amostra válida armazenada:  mul(742,271)
+ Amostra válida armazenada:  mul(495,834)
+ Amostra válida armazenada:  mul(623,691)
+ Amostra válida armazenada:  mul(755,380)
+ Amostra válida armazenada:  mul(496,505)
+ Amostra válida armazenada:  mul(447,864)
+ Amostra válida armazenada:  mul(672,810)
+ Amostra válida armazenada:  mul(631,935)
+ Processada a amostra e armazenadas as expressões válidas
+ Atualizados os dados em 'data'
+
+ Len(data):  18560
+ dont_end:  438
+ do_end:  263
+ Loop: Len(amostra):  438
+ Amostra válida armazenada:  mul(41,26)
+ Amostra válida armazenada:  mul(780,997)
+ Amostra válida armazenada:  mul(155,624)
+ Amostra válida armazenada:  mul(181,7)
+ Amostra válida armazenada:  mul(742,580)
+ Amostra válida armazenada:  mul(370,366)
+ Amostra válida armazenada:  mul(943,740)
+ Amostra válida armazenada:  mul(811,357)
+ Amostra válida armazenada:  mul(680,308)
+ Amostra válida armazenada:  mul(437,895)
+ Amostra válida armazenada:  mul(556,541)
+ Amostra válida armazenada:  mul(742,271)
+ Amostra válida armazenada:  mul(495,834)
+ Amostra válida armazenada:  mul(623,691)
+ Amostra válida armazenada:  mul(755,380)
+ Amostra válida armazenada:  mul(496,505)
+ Amostra válida armazenada:  mul(447,864)
+ Amostra válida armazenada:  mul(672,810)
+ Amostra válida armazenada:  mul(631,935)
+ Processada a amostra e armazenadas as expressões válidas
+ Atualizados os dados em 'data'
+
+ Len(data):  18297
+ dont_end:  175
+ do_end:  501
+ Loop: Len(amostra):  175
+ Amostra válida armazenada:  mul(495,834)
+ Amostra válida armazenada:  mul(623,691)
+ Amostra válida armazenada:  mul(755,380)
+ Amostra válida armazenada:  mul(496,505)
+ Amostra válida armazenada:  mul(447,864)
+ Amostra válida armazenada:  mul(672,810)
+ Amostra válida armazenada:  mul(631,935)
+ Processada a amostra e armazenadas as expressões válidas
+ Atualizados os dados em 'data'
+
+ Len(data):  17796
+ dont_end:  88
+ do_end:  781
+ Loop: Len(amostra):  88
+ Amostra válida armazenada:  mul(332,237)
+ Amostra válida armazenada:  mul(726,568)
+ Processada a amostra e armazenadas as expressões válidas
+ Atualizados os dados em 'data'
+
+ Len(data):  17015
+ dont_end:  390
+ do_end:  32
+ Loop: Len(amostra):  390
+ Amostra válida armazenada:  mul(905,578)
+ Amostra válida armazenada:  mul(38,555)
+ Amostra válida armazenada:  mul(62,626)
+ Amostra válida armazenada:  mul(653,287)
+ Amostra válida armazenada:  mul(526,575)
+ Amostra válida armazenada:  mul(853,659)
+ Amostra válida armazenada:  mul(60,505)
+ Amostra válida armazenada:  mul(253,318)
+ Amostra válida armazenada:  mul(933,174)
+ Amostra válida armazenada:  mul(572,64)
+ Amostra válida armazenada:  mul(73,528)
+ Amostra válida armazenada:  mul(319,153)
+ Amostra válida armazenada:  mul(84,761)
+ Amostra válida armazenada:  mul(84,908)
+ Amostra válida armazenada:  mul(218,854)
+ Processada a amostra e armazenadas as expressões válidas
+ Atualizados os dados em 'data'
+
+ Len(data):  16983
+ dont_end:  358
+ do_end:  538
+ Loop: Len(amostra):  358
+ Amostra válida armazenada:  mul(38,555)
+ Amostra válida armazenada:  mul(62,626)
+ Amostra válida armazenada:  mul(653,287)
+ Amostra válida armazenada:  mul(526,575)
+ Amostra válida armazenada:  mul(853,659)
+ Amostra válida armazenada:  mul(60,505)
+ Amostra válida armazenada:  mul(253,318)
+ Amostra válida armazenada:  mul(933,174)
+ Amostra válida armazenada:  mul(572,64)
+ Amostra válida armazenada:  mul(73,528)
+ Amostra válida armazenada:  mul(319,153)
+ Amostra válida armazenada:  mul(84,761)
+ Amostra válida armazenada:  mul(84,908)
+ Amostra válida armazenada:  mul(218,854)
+ Processada a amostra e armazenadas as expressões válidas
+ Atualizados os dados em 'data'
+
+ Len(data):  16445
+ dont_end:  488
+ do_end:  418
+ Loop: Len(amostra):  488
+ Amostra válida armazenada:  mul(126,937)
+ Amostra válida armazenada:  mul(959,440)
+ Amostra válida armazenada:  mul(335,779)
+ Amostra válida armazenada:  mul(506,275)
+ Amostra válida armazenada:  mul(580,934)
+ Amostra válida armazenada:  mul(805,687)
+ Amostra válida armazenada:  mul(879,331)
+ Amostra válida armazenada:  mul(626,848)
+ Amostra válida armazenada:  mul(487,73)
+ Amostra válida armazenada:  mul(326,987)
+ Amostra válida armazenada:  mul(474,702)
+ Amostra válida armazenada:  mul(681,921)
+ Amostra válida armazenada:  mul(435,273)
+ Amostra válida armazenada:  mul(401,885)
+ Amostra válida armazenada:  mul(254,856)
+ Amostra válida armazenada:  mul(713,202)
+ Amostra válida armazenada:  mul(233,873)
+ Processada a amostra e armazenadas as expressões válidas
+ Atualizados os dados em 'data'
+
+ Len(data):  16027
+ dont_end:  70
+ do_end:  590
+ Loop: Len(amostra):  70
+ Amostra válida armazenada:  mul(713,202)
+ Amostra válida armazenada:  mul(233,873)
+ Processada a amostra e armazenadas as expressões válidas
+ Atualizados os dados em 'data'
+
+ Len(data):  15437
+ dont_end:  3725
+ do_end:  410
+ Loop: Len(amostra):  3725
+ Amostra válida armazenada:  mul(864,883)
+ Amostra válida armazenada:  mul(361,638)
+ Amostra válida armazenada:  mul(703,895)
+ Amostra válida armazenada:  mul(149,597)
+ Amostra válida armazenada:  mul(788,875)
+ Amostra válida armazenada:  mul(569,626)
+ Amostra válida armazenada:  mul(97,835)
+ Amostra válida armazenada:  mul(446,114)
+ Amostra válida armazenada:  mul(101,565)
+ Amostra válida armazenada:  mul(611,566)
+ Amostra válida armazenada:  mul(650,460)
+ Amostra válida armazenada:  mul(281,492)
+ Amostra válida armazenada:  mul(911,24)
+ Amostra válida armazenada:  mul(40,526)
+ Amostra válida armazenada:  mul(93,202)
+ Amostra válida armazenada:  mul(468,358)
+ Amostra válida armazenada:  mul(710,177)
+ Amostra válida armazenada:  mul(301,438)
+ Amostra válida armazenada:  mul(315,413)
+ Amostra válida armazenada:  mul(749,607)
+ Amostra válida armazenada:  mul(228,105)
+ Amostra válida armazenada:  mul(458,465)
+ Amostra válida armazenada:  mul(848,195)
+ Amostra válida armazenada:  mul(580,113)
+ Amostra válida armazenada:  mul(271,737)
+ Amostra válida armazenada:  mul(31,415)
+ Amostra válida armazenada:  mul(915,200)
+ Amostra válida armazenada:  mul(519,208)
+ Amostra válida armazenada:  mul(9,52)
+ Amostra válida armazenada:  mul(450,463)
+ Amostra válida armazenada:  mul(77,181)
+ Amostra válida armazenada:  mul(773,234)
+ Amostra válida armazenada:  mul(906,13)
+ Amostra válida armazenada:  mul(239,237)
+ Amostra válida armazenada:  mul(734,867)
+ Amostra válida armazenada:  mul(999,334)
+ Amostra válida armazenada:  mul(764,767)
+ Amostra válida armazenada:  mul(849,737)
+ Amostra válida armazenada:  mul(112,47)
+ Amostra válida armazenada:  mul(942,605)
+ Amostra válida armazenada:  mul(207,293)
+ Amostra válida armazenada:  mul(400,524)
+ Amostra válida armazenada:  mul(849,23)
+ Amostra válida armazenada:  mul(535,809)
+ Amostra válida armazenada:  mul(688,711)
+ Amostra válida armazenada:  mul(495,74)
+ Amostra válida armazenada:  mul(670,677)
+ Amostra válida armazenada:  mul(198,88)
+ Amostra válida armazenada:  mul(88,71)
+ Amostra válida armazenada:  mul(413,732)
+ Amostra válida armazenada:  mul(946,282)
+ Amostra válida armazenada:  mul(944,603)
+ Amostra válida armazenada:  mul(744,412)
+ Amostra válida armazenada:  mul(304,180)
+ Amostra válida armazenada:  mul(562,407)
+ Amostra válida armazenada:  mul(905,787)
+ Amostra válida armazenada:  mul(645,995)
+ Amostra válida armazenada:  mul(411,285)
+ Amostra válida armazenada:  mul(642,222)
+ Amostra válida armazenada:  mul(962,312)
+ Amostra válida armazenada:  mul(490,31)
+ Amostra válida armazenada:  mul(267,715)
+ Amostra válida armazenada:  mul(404,883)
+ Amostra válida armazenada:  mul(673,274)
+ Amostra válida armazenada:  mul(94,400)
+ Amostra válida armazenada:  mul(614,499)
+ Amostra válida armazenada:  mul(75,117)
+ Amostra válida armazenada:  mul(681,47)
+ Amostra válida armazenada:  mul(635,773)
+ Amostra válida armazenada:  mul(514,255)
+ Amostra válida armazenada:  mul(281,798)
+ Amostra válida armazenada:  mul(468,659)
+ Amostra válida armazenada:  mul(57,359)
+ Amostra válida armazenada:  mul(568,428)
+ Amostra válida armazenada:  mul(203,107)
+ Amostra válida armazenada:  mul(991,672)
+ Amostra válida armazenada:  mul(285,658)
+ Amostra válida armazenada:  mul(361,464)
+ Amostra válida armazenada:  mul(658,997)
+ Amostra válida armazenada:  mul(874,358)
+ Amostra válida armazenada:  mul(664,429)
+ Amostra válida armazenada:  mul(586,336)
+ Amostra válida armazenada:  mul(207,452)
+ Amostra válida armazenada:  mul(272,646)
+ Amostra válida armazenada:  mul(201,520)
+ Amostra válida armazenada:  mul(441,40)
+ Amostra válida armazenada:  mul(670,732)
+ Amostra válida armazenada:  mul(250,629)
+ Amostra válida armazenada:  mul(160,358)
+ Amostra válida armazenada:  mul(340,875)
+ Amostra válida armazenada:  mul(446,277)
+ Amostra válida armazenada:  mul(934,452)
+ Amostra válida armazenada:  mul(878,762)
+ Amostra válida armazenada:  mul(734,359)
+ Amostra válida armazenada:  mul(807,660)
+ Amostra válida armazenada:  mul(863,221)
+ Amostra válida armazenada:  mul(139,324)
+ Amostra válida armazenada:  mul(657,162)
+ Amostra válida armazenada:  mul(145,462)
+ Amostra válida armazenada:  mul(455,843)
+ Amostra válida armazenada:  mul(450,804)
+ Amostra válida armazenada:  mul(718,128)
+ Amostra válida armazenada:  mul(855,492)
+ Amostra válida armazenada:  mul(630,688)
+ Amostra válida armazenada:  mul(946,971)
+ Amostra válida armazenada:  mul(88,670)
+ Amostra válida armazenada:  mul(193,928)
+ Amostra válida armazenada:  mul(776,879)
+ Amostra válida armazenada:  mul(725,446)
+ Amostra válida armazenada:  mul(135,955)
+ Amostra válida armazenada:  mul(545,478)
+ Amostra válida armazenada:  mul(593,322)
+ Amostra válida armazenada:  mul(996,385)
+ Amostra válida armazenada:  mul(116,9)
+ Amostra válida armazenada:  mul(716,812)
+ Amostra válida armazenada:  mul(185,170)
+ Amostra válida armazenada:  mul(489,880)
+ Amostra válida armazenada:  mul(615,9)
+ Amostra válida armazenada:  mul(831,430)
+ Amostra válida armazenada:  mul(884,837)
+ Amostra válida armazenada:  mul(571,10)
+ Amostra válida armazenada:  mul(971,593)
+ Amostra válida armazenada:  mul(11,968)
+ Amostra válida armazenada:  mul(195,287)
+ Amostra válida armazenada:  mul(829,334)
+ Amostra válida armazenada:  mul(691,485)
+ Amostra válida armazenada:  mul(67,42)
+ Amostra válida armazenada:  mul(657,60)
+ Amostra válida armazenada:  mul(994,216)
+ Amostra válida armazenada:  mul(235,521)
+ Amostra válida armazenada:  mul(691,819)
+ Amostra válida armazenada:  mul(923,522)
+ Amostra válida armazenada:  mul(582,635)
+ Amostra válida armazenada:  mul(540,272)
+ Amostra válida armazenada:  mul(892,661)
+ Amostra válida armazenada:  mul(395,677)
+ Amostra válida armazenada:  mul(283,439)
+ Amostra válida armazenada:  mul(306,827)
+ Amostra válida armazenada:  mul(715,794)
+ Processada a amostra e armazenadas as expressões válidas
+ Atualizados os dados em 'data'
+
+ Len(data):  15027
+ dont_end:  3315
+ do_end:  859
+ Loop: Len(amostra):  3315
+ Amostra válida armazenada:  mul(710,177)
+ Amostra válida armazenada:  mul(301,438)
+ Amostra válida armazenada:  mul(315,413)
+ Amostra válida armazenada:  mul(749,607)
+ Amostra válida armazenada:  mul(228,105)
+ Amostra válida armazenada:  mul(458,465)
+ Amostra válida armazenada:  mul(848,195)
+ Amostra válida armazenada:  mul(580,113)
+ Amostra válida armazenada:  mul(271,737)
+ Amostra válida armazenada:  mul(31,415)
+ Amostra válida armazenada:  mul(915,200)
+ Amostra válida armazenada:  mul(519,208)
+ Amostra válida armazenada:  mul(9,52)
+ Amostra válida armazenada:  mul(450,463)
+ Amostra válida armazenada:  mul(77,181)
+ Amostra válida armazenada:  mul(773,234)
+ Amostra válida armazenada:  mul(906,13)
+ Amostra válida armazenada:  mul(239,237)
+ Amostra válida armazenada:  mul(734,867)
+ Amostra válida armazenada:  mul(999,334)
+ Amostra válida armazenada:  mul(764,767)
+ Amostra válida armazenada:  mul(849,737)
+ Amostra válida armazenada:  mul(112,47)
+ Amostra válida armazenada:  mul(942,605)
+ Amostra válida armazenada:  mul(207,293)
+ Amostra válida armazenada:  mul(400,524)
+ Amostra válida armazenada:  mul(849,23)
+ Amostra válida armazenada:  mul(535,809)
+ Amostra válida armazenada:  mul(688,711)
+ Amostra válida armazenada:  mul(495,74)
+ Amostra válida armazenada:  mul(670,677)
+ Amostra válida armazenada:  mul(198,88)
+ Amostra válida armazenada:  mul(88,71)
+ Amostra válida armazenada:  mul(413,732)
+ Amostra válida armazenada:  mul(946,282)
+ Amostra válida armazenada:  mul(944,603)
+ Amostra válida armazenada:  mul(744,412)
+ Amostra válida armazenada:  mul(304,180)
+ Amostra válida armazenada:  mul(562,407)
+ Amostra válida armazenada:  mul(905,787)
+ Amostra válida armazenada:  mul(645,995)
+ Amostra válida armazenada:  mul(411,285)
+ Amostra válida armazenada:  mul(642,222)
+ Amostra válida armazenada:  mul(962,312)
+ Amostra válida armazenada:  mul(490,31)
+ Amostra válida armazenada:  mul(267,715)
+ Amostra válida armazenada:  mul(404,883)
+ Amostra válida armazenada:  mul(673,274)
+ Amostra válida armazenada:  mul(94,400)
+ Amostra válida armazenada:  mul(614,499)
+ Amostra válida armazenada:  mul(75,117)
+ Amostra válida armazenada:  mul(681,47)
+ Amostra válida armazenada:  mul(635,773)
+ Amostra válida armazenada:  mul(514,255)
+ Amostra válida armazenada:  mul(281,798)
+ Amostra válida armazenada:  mul(468,659)
+ Amostra válida armazenada:  mul(57,359)
+ Amostra válida armazenada:  mul(568,428)
+ Amostra válida armazenada:  mul(203,107)
+ Amostra válida armazenada:  mul(991,672)
+ Amostra válida armazenada:  mul(285,658)
+ Amostra válida armazenada:  mul(361,464)
+ Amostra válida armazenada:  mul(658,997)
+ Amostra válida armazenada:  mul(874,358)
+ Amostra válida armazenada:  mul(664,429)
+ Amostra válida armazenada:  mul(586,336)
+ Amostra válida armazenada:  mul(207,452)
+ Amostra válida armazenada:  mul(272,646)
+ Amostra válida armazenada:  mul(201,520)
+ Amostra válida armazenada:  mul(441,40)
+ Amostra válida armazenada:  mul(670,732)
+ Amostra válida armazenada:  mul(250,629)
+ Amostra válida armazenada:  mul(160,358)
+ Amostra válida armazenada:  mul(340,875)
+ Amostra válida armazenada:  mul(446,277)
+ Amostra válida armazenada:  mul(934,452)
+ Amostra válida armazenada:  mul(878,762)
+ Amostra válida armazenada:  mul(734,359)
+ Amostra válida armazenada:  mul(807,660)
+ Amostra válida armazenada:  mul(863,221)
+ Amostra válida armazenada:  mul(139,324)
+ Amostra válida armazenada:  mul(657,162)
+ Amostra válida armazenada:  mul(145,462)
+ Amostra válida armazenada:  mul(455,843)
+ Amostra válida armazenada:  mul(450,804)
+ Amostra válida armazenada:  mul(718,128)
+ Amostra válida armazenada:  mul(855,492)
+ Amostra válida armazenada:  mul(630,688)
+ Amostra válida armazenada:  mul(946,971)
+ Amostra válida armazenada:  mul(88,670)
+ Amostra válida armazenada:  mul(193,928)
+ Amostra válida armazenada:  mul(776,879)
+ Amostra válida armazenada:  mul(725,446)
+ Amostra válida armazenada:  mul(135,955)
+ Amostra válida armazenada:  mul(545,478)
+ Amostra válida armazenada:  mul(593,322)
+ Amostra válida armazenada:  mul(996,385)
+ Amostra válida armazenada:  mul(116,9)
+ Amostra válida armazenada:  mul(716,812)
+ Amostra válida armazenada:  mul(185,170)
+ Amostra válida armazenada:  mul(489,880)
+ Amostra válida armazenada:  mul(615,9)
+ Amostra válida armazenada:  mul(831,430)
+ Amostra válida armazenada:  mul(884,837)
+ Amostra válida armazenada:  mul(571,10)
+ Amostra válida armazenada:  mul(971,593)
+ Amostra válida armazenada:  mul(11,968)
+ Amostra válida armazenada:  mul(195,287)
+ Amostra válida armazenada:  mul(829,334)
+ Amostra válida armazenada:  mul(691,485)
+ Amostra válida armazenada:  mul(67,42)
+ Amostra válida armazenada:  mul(657,60)
+ Amostra válida armazenada:  mul(994,216)
+ Amostra válida armazenada:  mul(235,521)
+ Amostra válida armazenada:  mul(691,819)
+ Amostra válida armazenada:  mul(923,522)
+ Amostra válida armazenada:  mul(582,635)
+ Amostra válida armazenada:  mul(540,272)
+ Amostra válida armazenada:  mul(892,661)
+ Amostra válida armazenada:  mul(395,677)
+ Amostra válida armazenada:  mul(283,439)
+ Amostra válida armazenada:  mul(306,827)
+ Amostra válida armazenada:  mul(715,794)
+ Processada a amostra e armazenadas as expressões válidas
+ Atualizados os dados em 'data'
+
+ Len(data):  14168
+ dont_end:  2456
+ do_end:  549
+ Loop: Len(amostra):  2456
+ Amostra válida armazenada:  mul(495,74)
+ Amostra válida armazenada:  mul(670,677)
+ Amostra válida armazenada:  mul(198,88)
+ Amostra válida armazenada:  mul(88,71)
+ Amostra válida armazenada:  mul(413,732)
+ Amostra válida armazenada:  mul(946,282)
+ Amostra válida armazenada:  mul(944,603)
+ Amostra válida armazenada:  mul(744,412)
+ Amostra válida armazenada:  mul(304,180)
+ Amostra válida armazenada:  mul(562,407)
+ Amostra válida armazenada:  mul(905,787)
+ Amostra válida armazenada:  mul(645,995)
+ Amostra válida armazenada:  mul(411,285)
+ Amostra válida armazenada:  mul(642,222)
+ Amostra válida armazenada:  mul(962,312)
+ Amostra válida armazenada:  mul(490,31)
+ Amostra válida armazenada:  mul(267,715)
+ Amostra válida armazenada:  mul(404,883)
+ Amostra válida armazenada:  mul(673,274)
+ Amostra válida armazenada:  mul(94,400)
+ Amostra válida armazenada:  mul(614,499)
+ Amostra válida armazenada:  mul(75,117)
+ Amostra válida armazenada:  mul(681,47)
+ Amostra válida armazenada:  mul(635,773)
+ Amostra válida armazenada:  mul(514,255)
+ Amostra válida armazenada:  mul(281,798)
+ Amostra válida armazenada:  mul(468,659)
+ Amostra válida armazenada:  mul(57,359)
+ Amostra válida armazenada:  mul(568,428)
+ Amostra válida armazenada:  mul(203,107)
+ Amostra válida armazenada:  mul(991,672)
+ Amostra válida armazenada:  mul(285,658)
+ Amostra válida armazenada:  mul(361,464)
+ Amostra válida armazenada:  mul(658,997)
+ Amostra válida armazenada:  mul(874,358)
+ Amostra válida armazenada:  mul(664,429)
+ Amostra válida armazenada:  mul(586,336)
+ Amostra válida armazenada:  mul(207,452)
+ Amostra válida armazenada:  mul(272,646)
+ Amostra válida armazenada:  mul(201,520)
+ Amostra válida armazenada:  mul(441,40)
+ Amostra válida armazenada:  mul(670,732)
+ Amostra válida armazenada:  mul(250,629)
+ Amostra válida armazenada:  mul(160,358)
+ Amostra válida armazenada:  mul(340,875)
+ Amostra válida armazenada:  mul(446,277)
+ Amostra válida armazenada:  mul(934,452)
+ Amostra válida armazenada:  mul(878,762)
+ Amostra válida armazenada:  mul(734,359)
+ Amostra válida armazenada:  mul(807,660)
+ Amostra válida armazenada:  mul(863,221)
+ Amostra válida armazenada:  mul(139,324)
+ Amostra válida armazenada:  mul(657,162)
+ Amostra válida armazenada:  mul(145,462)
+ Amostra válida armazenada:  mul(455,843)
+ Amostra válida armazenada:  mul(450,804)
+ Amostra válida armazenada:  mul(718,128)
+ Amostra válida armazenada:  mul(855,492)
+ Amostra válida armazenada:  mul(630,688)
+ Amostra válida armazenada:  mul(946,971)
+ Amostra válida armazenada:  mul(88,670)
+ Amostra válida armazenada:  mul(193,928)
+ Amostra válida armazenada:  mul(776,879)
+ Amostra válida armazenada:  mul(725,446)
+ Amostra válida armazenada:  mul(135,955)
+ Amostra válida armazenada:  mul(545,478)
+ Amostra válida armazenada:  mul(593,322)
+ Amostra válida armazenada:  mul(996,385)
+ Amostra válida armazenada:  mul(116,9)
+ Amostra válida armazenada:  mul(716,812)
+ Amostra válida armazenada:  mul(185,170)
+ Amostra válida armazenada:  mul(489,880)
+ Amostra válida armazenada:  mul(615,9)
+ Amostra válida armazenada:  mul(831,430)
+ Amostra válida armazenada:  mul(884,837)
+ Amostra válida armazenada:  mul(571,10)
+ Amostra válida armazenada:  mul(971,593)
+ Amostra válida armazenada:  mul(11,968)
+ Amostra válida armazenada:  mul(195,287)
+ Amostra válida armazenada:  mul(829,334)
+ Amostra válida armazenada:  mul(691,485)
+ Amostra válida armazenada:  mul(67,42)
+ Amostra válida armazenada:  mul(657,60)
+ Amostra válida armazenada:  mul(994,216)
+ Amostra válida armazenada:  mul(235,521)
+ Amostra válida armazenada:  mul(691,819)
+ Amostra válida armazenada:  mul(923,522)
+ Amostra válida armazenada:  mul(582,635)
+ Amostra válida armazenada:  mul(540,272)
+ Amostra válida armazenada:  mul(892,661)
+ Amostra válida armazenada:  mul(395,677)
+ Amostra válida armazenada:  mul(283,439)
+ Amostra válida armazenada:  mul(306,827)
+ Amostra válida armazenada:  mul(715,794)
+ Processada a amostra e armazenadas as expressões válidas
+ Atualizados os dados em 'data'
+
+ Len(data):  13619
+ dont_end:  1907
+ do_end:  529
+ Loop: Len(amostra):  1907
+ Amostra válida armazenada:  mul(75,117)
+ Amostra válida armazenada:  mul(681,47)
+ Amostra válida armazenada:  mul(635,773)
+ Amostra válida armazenada:  mul(514,255)
+ Amostra válida armazenada:  mul(281,798)
+ Amostra válida armazenada:  mul(468,659)
+ Amostra válida armazenada:  mul(57,359)
+ Amostra válida armazenada:  mul(568,428)
+ Amostra válida armazenada:  mul(203,107)
+ Amostra válida armazenada:  mul(991,672)
+ Amostra válida armazenada:  mul(285,658)
+ Amostra válida armazenada:  mul(361,464)
+ Amostra válida armazenada:  mul(658,997)
+ Amostra válida armazenada:  mul(874,358)
+ Amostra válida armazenada:  mul(664,429)
+ Amostra válida armazenada:  mul(586,336)
+ Amostra válida armazenada:  mul(207,452)
+ Amostra válida armazenada:  mul(272,646)
+ Amostra válida armazenada:  mul(201,520)
+ Amostra válida armazenada:  mul(441,40)
+ Amostra válida armazenada:  mul(670,732)
+ Amostra válida armazenada:  mul(250,629)
+ Amostra válida armazenada:  mul(160,358)
+ Amostra válida armazenada:  mul(340,875)
+ Amostra válida armazenada:  mul(446,277)
+ Amostra válida armazenada:  mul(934,452)
+ Amostra válida armazenada:  mul(878,762)
+ Amostra válida armazenada:  mul(734,359)
+ Amostra válida armazenada:  mul(807,660)
+ Amostra válida armazenada:  mul(863,221)
+ Amostra válida armazenada:  mul(139,324)
+ Amostra válida armazenada:  mul(657,162)
+ Amostra válida armazenada:  mul(145,462)
+ Amostra válida armazenada:  mul(455,843)
+ Amostra válida armazenada:  mul(450,804)
+ Amostra válida armazenada:  mul(718,128)
+ Amostra válida armazenada:  mul(855,492)
+ Amostra válida armazenada:  mul(630,688)
+ Amostra válida armazenada:  mul(946,971)
+ Amostra válida armazenada:  mul(88,670)
+ Amostra válida armazenada:  mul(193,928)
+ Amostra válida armazenada:  mul(776,879)
+ Amostra válida armazenada:  mul(725,446)
+ Amostra válida armazenada:  mul(135,955)
+ Amostra válida armazenada:  mul(545,478)
+ Amostra válida armazenada:  mul(593,322)
+ Amostra válida armazenada:  mul(996,385)
+ Amostra válida armazenada:  mul(116,9)
+ Amostra válida armazenada:  mul(716,812)
+ Amostra válida armazenada:  mul(185,170)
+ Amostra válida armazenada:  mul(489,880)
+ Amostra válida armazenada:  mul(615,9)
+ Amostra válida armazenada:  mul(831,430)
+ Amostra válida armazenada:  mul(884,837)
+ Amostra válida armazenada:  mul(571,10)
+ Amostra válida armazenada:  mul(971,593)
+ Amostra válida armazenada:  mul(11,968)
+ Amostra válida armazenada:  mul(195,287)
+ Amostra válida armazenada:  mul(829,334)
+ Amostra válida armazenada:  mul(691,485)
+ Amostra válida armazenada:  mul(67,42)
+ Amostra válida armazenada:  mul(657,60)
+ Amostra válida armazenada:  mul(994,216)
+ Amostra válida armazenada:  mul(235,521)
+ Amostra válida armazenada:  mul(691,819)
+ Amostra válida armazenada:  mul(923,522)
+ Amostra válida armazenada:  mul(582,635)
+ Amostra válida armazenada:  mul(540,272)
+ Amostra válida armazenada:  mul(892,661)
+ Amostra válida armazenada:  mul(395,677)
+ Amostra válida armazenada:  mul(283,439)
+ Amostra válida armazenada:  mul(306,827)
+ Amostra válida armazenada:  mul(715,794)
+ Processada a amostra e armazenadas as expressões válidas
+ Atualizados os dados em 'data'
+
+ Len(data):  13090
+ dont_end:  1378
+ do_end:  267
+ Loop: Len(amostra):  1378
+ Amostra válida armazenada:  mul(670,732)
+ Amostra válida armazenada:  mul(250,629)
+ Amostra válida armazenada:  mul(160,358)
+ Amostra válida armazenada:  mul(340,875)
+ Amostra válida armazenada:  mul(446,277)
+ Amostra válida armazenada:  mul(934,452)
+ Amostra válida armazenada:  mul(878,762)
+ Amostra válida armazenada:  mul(734,359)
+ Amostra válida armazenada:  mul(807,660)
+ Amostra válida armazenada:  mul(863,221)
+ Amostra válida armazenada:  mul(139,324)
+ Amostra válida armazenada:  mul(657,162)
+ Amostra válida armazenada:  mul(145,462)
+ Amostra válida armazenada:  mul(455,843)
+ Amostra válida armazenada:  mul(450,804)
+ Amostra válida armazenada:  mul(718,128)
+ Amostra válida armazenada:  mul(855,492)
+ Amostra válida armazenada:  mul(630,688)
+ Amostra válida armazenada:  mul(946,971)
+ Amostra válida armazenada:  mul(88,670)
+ Amostra válida armazenada:  mul(193,928)
+ Amostra válida armazenada:  mul(776,879)
+ Amostra válida armazenada:  mul(725,446)
+ Amostra válida armazenada:  mul(135,955)
+ Amostra válida armazenada:  mul(545,478)
+ Amostra válida armazenada:  mul(593,322)
+ Amostra válida armazenada:  mul(996,385)
+ Amostra válida armazenada:  mul(116,9)
+ Amostra válida armazenada:  mul(716,812)
+ Amostra válida armazenada:  mul(185,170)
+ Amostra válida armazenada:  mul(489,880)
+ Amostra válida armazenada:  mul(615,9)
+ Amostra válida armazenada:  mul(831,430)
+ Amostra válida armazenada:  mul(884,837)
+ Amostra válida armazenada:  mul(571,10)
+ Amostra válida armazenada:  mul(971,593)
+ Amostra válida armazenada:  mul(11,968)
+ Amostra válida armazenada:  mul(195,287)
+ Amostra válida armazenada:  mul(829,334)
+ Amostra válida armazenada:  mul(691,485)
+ Amostra válida armazenada:  mul(67,42)
+ Amostra válida armazenada:  mul(657,60)
+ Amostra válida armazenada:  mul(994,216)
+ Amostra válida armazenada:  mul(235,521)
+ Amostra válida armazenada:  mul(691,819)
+ Amostra válida armazenada:  mul(923,522)
+ Amostra válida armazenada:  mul(582,635)
+ Amostra válida armazenada:  mul(540,272)
+ Amostra válida armazenada:  mul(892,661)
+ Amostra válida armazenada:  mul(395,677)
+ Amostra válida armazenada:  mul(283,439)
+ Amostra válida armazenada:  mul(306,827)
+ Amostra válida armazenada:  mul(715,794)
+ Processada a amostra e armazenadas as expressões válidas
+ Atualizados os dados em 'data'
+
+ Len(data):  12823
+ dont_end:  1111
+ do_end:  556
+ Loop: Len(amostra):  1111
+ Amostra válida armazenada:  mul(139,324)
+ Amostra válida armazenada:  mul(657,162)
+ Amostra válida armazenada:  mul(145,462)
+ Amostra válida armazenada:  mul(455,843)
+ Amostra válida armazenada:  mul(450,804)
+ Amostra válida armazenada:  mul(718,128)
+ Amostra válida armazenada:  mul(855,492)
+ Amostra válida armazenada:  mul(630,688)
+ Amostra válida armazenada:  mul(946,971)
+ Amostra válida armazenada:  mul(88,670)
+ Amostra válida armazenada:  mul(193,928)
+ Amostra válida armazenada:  mul(776,879)
+ Amostra válida armazenada:  mul(725,446)
+ Amostra válida armazenada:  mul(135,955)
+ Amostra válida armazenada:  mul(545,478)
+ Amostra válida armazenada:  mul(593,322)
+ Amostra válida armazenada:  mul(996,385)
+ Amostra válida armazenada:  mul(116,9)
+ Amostra válida armazenada:  mul(716,812)
+ Amostra válida armazenada:  mul(185,170)
+ Amostra válida armazenada:  mul(489,880)
+ Amostra válida armazenada:  mul(615,9)
+ Amostra válida armazenada:  mul(831,430)
+ Amostra válida armazenada:  mul(884,837)
+ Amostra válida armazenada:  mul(571,10)
+ Amostra válida armazenada:  mul(971,593)
+ Amostra válida armazenada:  mul(11,968)
+ Amostra válida armazenada:  mul(195,287)
+ Amostra válida armazenada:  mul(829,334)
+ Amostra válida armazenada:  mul(691,485)
+ Amostra válida armazenada:  mul(67,42)
+ Amostra válida armazenada:  mul(657,60)
+ Amostra válida armazenada:  mul(994,216)
+ Amostra válida armazenada:  mul(235,521)
+ Amostra válida armazenada:  mul(691,819)
+ Amostra válida armazenada:  mul(923,522)
+ Amostra válida armazenada:  mul(582,635)
+ Amostra válida armazenada:  mul(540,272)
+ Amostra válida armazenada:  mul(892,661)
+ Amostra válida armazenada:  mul(395,677)
+ Amostra válida armazenada:  mul(283,439)
+ Amostra válida armazenada:  mul(306,827)
+ Amostra válida armazenada:  mul(715,794)
+ Processada a amostra e armazenadas as expressões válidas
+ Atualizados os dados em 'data'
+
+ Len(data):  12267
+ dont_end:  555
+ do_end:  125
+ Loop: Len(amostra):  555
+ Amostra válida armazenada:  mul(831,430)
+ Amostra válida armazenada:  mul(884,837)
+ Amostra válida armazenada:  mul(571,10)
+ Amostra válida armazenada:  mul(971,593)
+ Amostra válida armazenada:  mul(11,968)
+ Amostra válida armazenada:  mul(195,287)
+ Amostra válida armazenada:  mul(829,334)
+ Amostra válida armazenada:  mul(691,485)
+ Amostra válida armazenada:  mul(67,42)
+ Amostra válida armazenada:  mul(657,60)
+ Amostra válida armazenada:  mul(994,216)
+ Amostra válida armazenada:  mul(235,521)
+ Amostra válida armazenada:  mul(691,819)
+ Amostra válida armazenada:  mul(923,522)
+ Amostra válida armazenada:  mul(582,635)
+ Amostra válida armazenada:  mul(540,272)
+ Amostra válida armazenada:  mul(892,661)
+ Amostra válida armazenada:  mul(395,677)
+ Amostra válida armazenada:  mul(283,439)
+ Amostra válida armazenada:  mul(306,827)
+ Amostra válida armazenada:  mul(715,794)
+ Processada a amostra e armazenadas as expressões válidas
+ Atualizados os dados em 'data'
+
+ Len(data):  12142
+ dont_end:  430
+ do_end:  1058
+ Loop: Len(amostra):  430
+ Amostra válida armazenada:  mul(195,287)
+ Amostra válida armazenada:  mul(829,334)
+ Amostra válida armazenada:  mul(691,485)
+ Amostra válida armazenada:  mul(67,42)
+ Amostra válida armazenada:  mul(657,60)
+ Amostra válida armazenada:  mul(994,216)
+ Amostra válida armazenada:  mul(235,521)
+ Amostra válida armazenada:  mul(691,819)
+ Amostra válida armazenada:  mul(923,522)
+ Amostra válida armazenada:  mul(582,635)
+ Amostra válida armazenada:  mul(540,272)
+ Amostra válida armazenada:  mul(892,661)
+ Amostra válida armazenada:  mul(395,677)
+ Amostra válida armazenada:  mul(283,439)
+ Amostra válida armazenada:  mul(306,827)
+ Amostra válida armazenada:  mul(715,794)
+ Processada a amostra e armazenadas as expressões válidas
+ Atualizados os dados em 'data'
+
+ Len(data):  11084
+ dont_end:  674
+ do_end:  2004
+ Loop: Len(amostra):  674
+ Amostra válida armazenada:  mul(476,619)
+ Amostra válida armazenada:  mul(558,189)
+ Amostra válida armazenada:  mul(898,431)
+ Amostra válida armazenada:  mul(272,96)
+ Amostra válida armazenada:  mul(114,12)
+ Amostra válida armazenada:  mul(140,45)
+ Amostra válida armazenada:  mul(618,246)
+ Amostra válida armazenada:  mul(699,148)
+ Amostra válida armazenada:  mul(576,716)
+ Amostra válida armazenada:  mul(194,425)
+ Amostra válida armazenada:  mul(286,203)
+ Amostra válida armazenada:  mul(233,603)
+ Amostra válida armazenada:  mul(218,435)
+ Amostra válida armazenada:  mul(447,216)
+ Amostra válida armazenada:  mul(96,841)
+ Amostra válida armazenada:  mul(593,92)
+ Amostra válida armazenada:  mul(33,813)
+ Amostra válida armazenada:  mul(830,334)
+ Amostra válida armazenada:  mul(737,927)
+ Amostra válida armazenada:  mul(904,315)
+ Amostra válida armazenada:  mul(576,266)
+ Amostra válida armazenada:  mul(760,106)
+ Amostra válida armazenada:  mul(238,430)
+ Amostra válida armazenada:  mul(297,50)
+ Amostra válida armazenada:  mul(508,388)
+ Amostra válida armazenada:  mul(677,789)
+ Amostra válida armazenada:  mul(482,148)
+ Amostra válida armazenada:  mul(276,776)
+ Amostra válida armazenada:  mul(991,992)
+ Processada a amostra e armazenadas as expressões válidas
+ Atualizados os dados em 'data'
+
+ Len(data):  9080
+ dont_end:  59
+ do_end:  744
+ Loop: Len(amostra):  59
+ Amostra válida armazenada:  mul(884,120)
+ Amostra válida armazenada:  mul(437,916)
+ Processada a amostra e armazenadas as expressões válidas
+ Atualizados os dados em 'data'
+
+ Len(data):  8336
+ dont_end:  631
+ do_end:  370
+ Loop: Len(amostra):  631
+ Amostra válida armazenada:  mul(110,879)
+ Amostra válida armazenada:  mul(423,374)
+ Amostra válida armazenada:  mul(557,663)
+ Amostra válida armazenada:  mul(751,856)
+ Amostra válida armazenada:  mul(504,359)
+ Amostra válida armazenada:  mul(129,586)
+ Amostra válida armazenada:  mul(795,274)
+ Amostra válida armazenada:  mul(616,487)
+ Amostra válida armazenada:  mul(197,217)
+ Amostra válida armazenada:  mul(119,634)
+ Amostra válida armazenada:  mul(478,719)
+ Amostra válida armazenada:  mul(689,28)
+ Amostra válida armazenada:  mul(7,26)
+ Amostra válida armazenada:  mul(254,465)
+ Amostra válida armazenada:  mul(381,367)
+ Amostra válida armazenada:  mul(999,507)
+ Amostra válida armazenada:  mul(555,656)
+ Amostra válida armazenada:  mul(844,315)
+ Amostra válida armazenada:  mul(56,743)
+ Amostra válida armazenada:  mul(687,63)
+ Processada a amostra e armazenadas as expressões válidas
+ Atualizados os dados em 'data'
+
+ Len(data):  7966
+ dont_end:  261
+ do_end:  1204
+ Loop: Len(amostra):  261
+ Amostra válida armazenada:  mul(689,28)
+ Amostra válida armazenada:  mul(7,26)
+ Amostra válida armazenada:  mul(254,465)
+ Amostra válida armazenada:  mul(381,367)
+ Amostra válida armazenada:  mul(999,507)
+ Amostra válida armazenada:  mul(555,656)
+ Amostra válida armazenada:  mul(844,315)
+ Amostra válida armazenada:  mul(56,743)
+ Amostra válida armazenada:  mul(687,63)
+ Processada a amostra e armazenadas as expressões válidas
+ Atualizados os dados em 'data'
+
+ Len(data):  6762
+ dont_end:  184
+ do_end:  1704
+ Loop: Len(amostra):  184
+ Amostra válida armazenada:  mul(103,86)
+ Amostra válida armazenada:  mul(205,551)
+ Amostra válida armazenada:  mul(511,903)
+ Amostra válida armazenada:  mul(926,40)
+ Amostra válida armazenada:  mul(501,105)
+ Amostra válida armazenada:  mul(810,253)
+ Amostra válida armazenada:  mul(189,604)
+ Processada a amostra e armazenadas as expressões válidas
+ Atualizados os dados em 'data'
+
+ Len(data):  5058
+ dont_end:  321
+ do_end:  432
+ Loop: Len(amostra):  321
+ Amostra válida armazenada:  mul(949,622)
+ Amostra válida armazenada:  mul(895,650)
+ Amostra válida armazenada:  mul(280,116)
+ Amostra válida armazenada:  mul(118,570)
+ Amostra válida armazenada:  mul(103,762)
+ Amostra válida armazenada:  mul(602,859)
+ Amostra válida armazenada:  mul(637,550)
+ Amostra válida armazenada:  mul(137,536)
+ Amostra válida armazenada:  mul(345,803)
+ Amostra válida armazenada:  mul(648,629)
+ Amostra válida armazenada:  mul(722,259)
+ Processada a amostra e armazenadas as expressões válidas
+ Atualizados os dados em 'data'
+
+ Len(data):  4626
+ dont_end:  1124
+ do_end:  99
+ Loop: Len(amostra):  1124
+ Amostra válida armazenada:  mul(643,998)
+ Amostra válida armazenada:  mul(488,727)
+ Amostra válida armazenada:  mul(382,707)
+ Amostra válida armazenada:  mul(955,741)
+ Amostra válida armazenada:  mul(886,423)
+ Amostra válida armazenada:  mul(661,868)
+ Amostra válida armazenada:  mul(978,457)
+ Amostra válida armazenada:  mul(421,976)
+ Amostra válida armazenada:  mul(79,487)
+ Amostra válida armazenada:  mul(775,827)
+ Amostra válida armazenada:  mul(260,742)
+ Amostra válida armazenada:  mul(614,982)
+ Amostra válida armazenada:  mul(271,715)
+ Amostra válida armazenada:  mul(722,687)
+ Amostra válida armazenada:  mul(934,463)
+ Amostra válida armazenada:  mul(895,822)
+ Amostra válida armazenada:  mul(879,833)
+ Amostra válida armazenada:  mul(750,443)
+ Amostra válida armazenada:  mul(214,657)
+ Amostra válida armazenada:  mul(509,725)
+ Amostra válida armazenada:  mul(911,719)
+ Amostra válida armazenada:  mul(441,647)
+ Amostra válida armazenada:  mul(714,781)
+ Amostra válida armazenada:  mul(506,291)
+ Amostra válida armazenada:  mul(471,954)
+ Amostra válida armazenada:  mul(487,853)
+ Amostra válida armazenada:  mul(117,603)
+ Amostra válida armazenada:  mul(26,939)
+ Amostra válida armazenada:  mul(905,612)
+ Amostra válida armazenada:  mul(479,266)
+ Amostra válida armazenada:  mul(451,254)
+ Amostra válida armazenada:  mul(672,957)
+ Amostra válida armazenada:  mul(460,110)
+ Amostra válida armazenada:  mul(696,661)
+ Amostra válida armazenada:  mul(276,105)
+ Amostra válida armazenada:  mul(634,101)
+ Amostra válida armazenada:  mul(230,384)
+ Processada a amostra e armazenadas as expressões válidas
+ Atualizados os dados em 'data'
+
+ Len(data):  4527
+ dont_end:  1025
+ do_end:  751
+ Loop: Len(amostra):  1025
+ Amostra válida armazenada:  mul(382,707)
+ Amostra válida armazenada:  mul(955,741)
+ Amostra válida armazenada:  mul(886,423)
+ Amostra válida armazenada:  mul(661,868)
+ Amostra válida armazenada:  mul(978,457)
+ Amostra válida armazenada:  mul(421,976)
+ Amostra válida armazenada:  mul(79,487)
+ Amostra válida armazenada:  mul(775,827)
+ Amostra válida armazenada:  mul(260,742)
+ Amostra válida armazenada:  mul(614,982)
+ Amostra válida armazenada:  mul(271,715)
+ Amostra válida armazenada:  mul(722,687)
+ Amostra válida armazenada:  mul(934,463)
+ Amostra válida armazenada:  mul(895,822)
+ Amostra válida armazenada:  mul(879,833)
+ Amostra válida armazenada:  mul(750,443)
+ Amostra válida armazenada:  mul(214,657)
+ Amostra válida armazenada:  mul(509,725)
+ Amostra válida armazenada:  mul(911,719)
+ Amostra válida armazenada:  mul(441,647)
+ Amostra válida armazenada:  mul(714,781)
+ Amostra válida armazenada:  mul(506,291)
+ Amostra válida armazenada:  mul(471,954)
+ Amostra válida armazenada:  mul(487,853)
+ Amostra válida armazenada:  mul(117,603)
+ Amostra válida armazenada:  mul(26,939)
+ Amostra válida armazenada:  mul(905,612)
+ Amostra válida armazenada:  mul(479,266)
+ Amostra válida armazenada:  mul(451,254)
+ Amostra válida armazenada:  mul(672,957)
+ Amostra válida armazenada:  mul(460,110)
+ Amostra válida armazenada:  mul(696,661)
+ Amostra válida armazenada:  mul(276,105)
+ Amostra válida armazenada:  mul(634,101)
+ Amostra válida armazenada:  mul(230,384)
+ Processada a amostra e armazenadas as expressões válidas
+ Atualizados os dados em 'data'
+
+ Len(data):  3776
+ dont_end:  274
+ do_end:  119
+ Loop: Len(amostra):  274
+ Amostra válida armazenada:  mul(672,957)
+ Amostra válida armazenada:  mul(460,110)
+ Amostra válida armazenada:  mul(696,661)
+ Amostra válida armazenada:  mul(276,105)
+ Amostra válida armazenada:  mul(634,101)
+ Amostra válida armazenada:  mul(230,384)
+ Processada a amostra e armazenadas as expressões válidas
+ Atualizados os dados em 'data'
+
+ Len(data):  3657
+ dont_end:  155
+ do_end:  253
+ Loop: Len(amostra):  155
+ Amostra válida armazenada:  mul(276,105)
+ Amostra válida armazenada:  mul(634,101)
+ Amostra válida armazenada:  mul(230,384)
+ Processada a amostra e armazenadas as expressões válidas
+ Atualizados os dados em 'data'
+
+ Len(data):  3404
+ dont_end:  756
+ do_end:  649
+ Loop: Len(amostra):  756
+ Amostra válida armazenada:  mul(446,844)
+ Amostra válida armazenada:  mul(481,966)
+ Amostra válida armazenada:  mul(657,897)
+ Amostra válida armazenada:  mul(798,427)
+ Amostra válida armazenada:  mul(129,609)
+ Amostra válida armazenada:  mul(529,605)
+ Amostra válida armazenada:  mul(526,728)
+ Amostra válida armazenada:  mul(353,423)
+ Amostra válida armazenada:  mul(715,873)
+ Amostra válida armazenada:  mul(58,633)
+ Amostra válida armazenada:  mul(852,860)
+ Amostra válida armazenada:  mul(859,150)
+ Amostra válida armazenada:  mul(940,144)
+ Amostra válida armazenada:  mul(108,347)
+ Amostra válida armazenada:  mul(345,953)
+ Amostra válida armazenada:  mul(840,962)
+ Amostra válida armazenada:  mul(605,595)
+ Amostra válida armazenada:  mul(309,38)
+ Amostra válida armazenada:  mul(578,371)
+ Amostra válida armazenada:  mul(680,773)
+ Amostra válida armazenada:  mul(858,458)
+ Processada a amostra e armazenadas as expressões válidas
+ Atualizados os dados em 'data'
+
+ Len(data):  2755
+ dont_end:  107
+ do_end:  58
+ Loop: Len(amostra):  107
+ Amostra válida armazenada:  mul(680,773)
+ Amostra válida armazenada:  mul(858,458)
+ Processada a amostra e armazenadas as expressões válidas
+ Atualizados os dados em 'data'
+
+ Len(data):  2697
+ dont_end:  49
+ do_end:  361
+ Loop: Len(amostra):  49
+ Amostra válida armazenada:  mul(858,458)
+ Processada a amostra e armazenadas as expressões válidas
+ Atualizados os dados em 'data'
+
+ Len(data):  2336
+ dont_end:  361
+ do_end:  168
+ Loop: Len(amostra):  361
+ Amostra válida armazenada:  mul(242,920)
+ Amostra válida armazenada:  mul(654,14)
+ Amostra válida armazenada:  mul(395,534)
+ Amostra válida armazenada:  mul(970,894)
+ Amostra válida armazenada:  mul(155,986)
+ Amostra válida armazenada:  mul(605,722)
+ Amostra válida armazenada:  mul(455,920)
+ Amostra válida armazenada:  mul(977,500)
+ Amostra válida armazenada:  mul(238,178)
+ Amostra válida armazenada:  mul(200,544)
+ Amostra válida armazenada:  mul(779,866)
+ Amostra válida armazenada:  mul(998,603)
+ Amostra válida armazenada:  mul(619,377)
+ Amostra válida armazenada:  mul(883,286)
+ Processada a amostra e armazenadas as expressões válidas
+ Atualizados os dados em 'data'
+
+ Len(data):  2168
+ dont_end:  193
+ do_end:  667
+ Loop: Len(amostra):  193
+ Amostra válida armazenada:  mul(605,722)
+ Amostra válida armazenada:  mul(455,920)
+ Amostra válida armazenada:  mul(977,500)
+ Amostra válida armazenada:  mul(238,178)
+ Amostra válida armazenada:  mul(200,544)
+ Amostra válida armazenada:  mul(779,866)
+ Amostra válida armazenada:  mul(998,603)
+ Amostra válida armazenada:  mul(619,377)
+ Amostra válida armazenada:  mul(883,286)
+ Processada a amostra e armazenadas as expressões válidas
+ Atualizados os dados em 'data'
+
+ Len(data):  1501
+ dont_end:  65
+ do_end:  743
+ Loop: Len(amostra):  65
+ Amostra válida armazenada:  mul(56,67)
+ Processada a amostra e armazenadas as expressões válidas
+ Atualizados os dados em 'data'
+
+ Len(data):  758
+ dont_end:  758
+ do_end:  209
+ Loop: Len(amostra):  758
+ Amostra válida armazenada:  mul(432,921)
+ Amostra válida armazenada:  mul(320,602)
+ Amostra válida armazenada:  mul(285,293)
+ Amostra válida armazenada:  mul(542,971)
+ Amostra válida armazenada:  mul(371,889)
+ Amostra válida armazenada:  mul(143,526)
+ Amostra válida armazenada:  mul(976,418)
+ Amostra válida armazenada:  mul(945,948)
+ Amostra válida armazenada:  mul(756,439)
+ Amostra válida armazenada:  mul(381,579)
+ Amostra válida armazenada:  mul(654,823)
+ Amostra válida armazenada:  mul(448,211)
+ Amostra válida armazenada:  mul(865,203)
+ Amostra válida armazenada:  mul(20,584)
+ Amostra válida armazenada:  mul(231,591)
+ Amostra válida armazenada:  mul(259,982)
+ Amostra válida armazenada:  mul(913,11)
+ Amostra válida armazenada:  mul(374,405)
+ Amostra válida armazenada:  mul(732,168)
+ Amostra válida armazenada:  mul(243,963)
+ Amostra válida armazenada:  mul(367,361)
+ Amostra válida armazenada:  mul(86,56)
+ Amostra válida armazenada:  mul(536,351)
+ Amostra válida armazenada:  mul(792,598)
+ Amostra válida armazenada:  mul(669,121)
+ Amostra válida armazenada:  mul(382,343)
+ Amostra válida armazenada:  mul(620,103)
+ Amostra válida armazenada:  mul(692,447)
+ Amostra válida armazenada:  mul(109,165)
+ Amostra válida armazenada:  mul(83,788)
+ Amostra válida armazenada:  mul(354,282)
+ Processada a amostra e armazenadas as expressões válidas
+ Atualizados os dados em 'data'
+
+ Len(data):  549
+ dont_end:  549
+ do_end:  549
+ Loop: Len(amostra):  549
+ Amostra válida armazenada:  mul(945,948)
+ Amostra válida armazenada:  mul(756,439)
+ Amostra válida armazenada:  mul(381,579)
+ Amostra válida armazenada:  mul(654,823)
+ Amostra válida armazenada:  mul(448,211)
+ Amostra válida armazenada:  mul(865,203)
+ Amostra válida armazenada:  mul(20,584)
+ Amostra válida armazenada:  mul(231,591)
+ Amostra válida armazenada:  mul(259,982)
+ Amostra válida armazenada:  mul(913,11)
+ Amostra válida armazenada:  mul(374,405)
+ Amostra válida armazenada:  mul(732,168)
+ Amostra válida armazenada:  mul(243,963)
+ Amostra válida armazenada:  mul(367,361)
+ Amostra válida armazenada:  mul(86,56)
+ Amostra válida armazenada:  mul(536,351)
+ Amostra válida armazenada:  mul(792,598)
+ Amostra válida armazenada:  mul(669,121)
+ Amostra válida armazenada:  mul(382,343)
+ Amostra válida armazenada:  mul(620,103)
+ Amostra válida armazenada:  mul(692,447)
+ Amostra válida armazenada:  mul(109,165)
+ Amostra válida armazenada:  mul(83,788)
+ Amostra válida armazenada:  mul(354,282)
+ Processada a amostra e armazenadas as expressões válidas
+ Atualizados os dados em 'data'
+mul(417,528)  -  220176
+mul(215,18)  -  3870
+mul(89,59)  -  5251
+mul(709,138)  -  97842
+mul(548,826)  -  452648
+mul(103,952)  -  98056
+mul(322,877)  -  282394
+mul(378,598)  -  226044
+mul(695,169)  -  117455
+mul(12,677)  -  8124
+mul(911,924)  -  841764
+mul(12,238)  -  2856
+mul(17,995)  -  16915
+mul(619,259)  -  160321
+mul(477,46)  -  21942
+mul(471,687)  -  323577
+mul(683,261)  -  178263
+mul(59,43)  -  2537
+mul(396,135)  -  53460
+mul(593,130)  -  77090
+mul(189,802)  -  151578
+mul(315,986)  -  310590
+mul(408,692)  -  282336
+mul(547,681)  -  372507
+mul(748,448)  -  335104
+mul(686,701)  -  480886
+mul(14,551)  -  7714
+mul(405,549)  -  222345
+mul(639,826)  -  527814
+mul(89,59)  -  5251
+mul(709,138)  -  97842
+mul(548,826)  -  452648
+mul(103,952)  -  98056
+mul(322,877)  -  282394
+mul(378,598)  -  226044
+mul(695,169)  -  117455
+mul(12,677)  -  8124
+mul(911,924)  -  841764
+mul(12,238)  -  2856
+mul(17,995)  -  16915
+mul(619,259)  -  160321
+mul(477,46)  -  21942
+mul(471,687)  -  323577
+mul(683,261)  -  178263
+mul(59,43)  -  2537
+mul(396,135)  -  53460
+mul(593,130)  -  77090
+mul(189,802)  -  151578
+mul(315,986)  -  310590
+mul(408,692)  -  282336
+mul(547,681)  -  372507
+mul(748,448)  -  335104
+mul(686,701)  -  480886
+mul(14,551)  -  7714
+mul(405,549)  -  222345
+mul(639,826)  -  527814
+mul(87,111)  -  9657
+mul(891,433)  -  385803
+mul(87,681)  -  59247
+mul(753,736)  -  554208
+mul(469,856)  -  401464
+mul(51,85)  -  4335
+mul(877,991)  -  869107
+mul(127,485)  -  61595
+mul(41,26)  -  1066
+mul(780,997)  -  777660
+mul(155,624)  -  96720
+mul(181,7)  -  1267
+mul(742,580)  -  430360
+mul(370,366)  -  135420
+mul(943,740)  -  697820
+mul(811,357)  -  289527
+mul(680,308)  -  209440
+mul(437,895)  -  391115
+mul(556,541)  -  300796
+mul(742,271)  -  201082
+mul(495,834)  -  412830
+mul(623,691)  -  430493
+mul(755,380)  -  286900
+mul(496,505)  -  250480
+mul(447,864)  -  386208
+mul(672,810)  -  544320
+mul(631,935)  -  589985
+mul(877,991)  -  869107
+mul(127,485)  -  61595
+mul(41,26)  -  1066
+mul(780,997)  -  777660
+mul(155,624)  -  96720
+mul(181,7)  -  1267
+mul(742,580)  -  430360
+mul(370,366)  -  135420
+mul(943,740)  -  697820
+mul(811,357)  -  289527
+mul(680,308)  -  209440
+mul(437,895)  -  391115
+mul(556,541)  -  300796
+mul(742,271)  -  201082
+mul(495,834)  -  412830
+mul(623,691)  -  430493
+mul(755,380)  -  286900
+mul(496,505)  -  250480
+mul(447,864)  -  386208
+mul(672,810)  -  544320
+mul(631,935)  -  589985
+mul(41,26)  -  1066
+mul(780,997)  -  777660
+mul(155,624)  -  96720
+mul(181,7)  -  1267
+mul(742,580)  -  430360
+mul(370,366)  -  135420
+mul(943,740)  -  697820
+mul(811,357)  -  289527
+mul(680,308)  -  209440
+mul(437,895)  -  391115
+mul(556,541)  -  300796
+mul(742,271)  -  201082
+mul(495,834)  -  412830
+mul(623,691)  -  430493
+mul(755,380)  -  286900
+mul(496,505)  -  250480
+mul(447,864)  -  386208
+mul(672,810)  -  544320
+mul(631,935)  -  589985
+mul(495,834)  -  412830
+mul(623,691)  -  430493
+mul(755,380)  -  286900
+mul(496,505)  -  250480
+mul(447,864)  -  386208
+mul(672,810)  -  544320
+mul(631,935)  -  589985
+mul(332,237)  -  78684
+mul(726,568)  -  412368
+mul(905,578)  -  523090
+mul(38,555)  -  21090
+mul(62,626)  -  38812
+mul(653,287)  -  187411
+mul(526,575)  -  302450
+mul(853,659)  -  562127
+mul(60,505)  -  30300
+mul(253,318)  -  80454
+mul(933,174)  -  162342
+mul(572,64)  -  36608
+mul(73,528)  -  38544
+mul(319,153)  -  48807
+mul(84,761)  -  63924
+mul(84,908)  -  76272
+mul(218,854)  -  186172
+mul(38,555)  -  21090
+mul(62,626)  -  38812
+mul(653,287)  -  187411
+mul(526,575)  -  302450
+mul(853,659)  -  562127
+mul(60,505)  -  30300
+mul(253,318)  -  80454
+mul(933,174)  -  162342
+mul(572,64)  -  36608
+mul(73,528)  -  38544
+mul(319,153)  -  48807
+mul(84,761)  -  63924
+mul(84,908)  -  76272
+mul(218,854)  -  186172
+mul(126,937)  -  118062
+mul(959,440)  -  421960
+mul(335,779)  -  260965
+mul(506,275)  -  139150
+mul(580,934)  -  541720
+mul(805,687)  -  553035
+mul(879,331)  -  290949
+mul(626,848)  -  530848
+mul(487,73)  -  35551
+mul(326,987)  -  321762
+mul(474,702)  -  332748
+mul(681,921)  -  627201
+mul(435,273)  -  118755
+mul(401,885)  -  354885
+mul(254,856)  -  217424
+mul(713,202)  -  144026
+mul(233,873)  -  203409
+mul(713,202)  -  144026
+mul(233,873)  -  203409
+mul(864,883)  -  762912
+mul(361,638)  -  230318
+mul(703,895)  -  629185
+mul(149,597)  -  88953
+mul(788,875)  -  689500
+mul(569,626)  -  356194
+mul(97,835)  -  80995
+mul(446,114)  -  50844
+mul(101,565)  -  57065
+mul(611,566)  -  345826
+mul(650,460)  -  299000
+mul(281,492)  -  138252
+mul(911,24)  -  21864
+mul(40,526)  -  21040
+mul(93,202)  -  18786
+mul(468,358)  -  167544
+mul(710,177)  -  125670
+mul(301,438)  -  131838
+mul(315,413)  -  130095
+mul(749,607)  -  454643
+mul(228,105)  -  23940
+mul(458,465)  -  212970
+mul(848,195)  -  165360
+mul(580,113)  -  65540
+mul(271,737)  -  199727
+mul(31,415)  -  12865
+mul(915,200)  -  183000
+mul(519,208)  -  107952
+mul(9,52)  -  468
+mul(450,463)  -  208350
+mul(77,181)  -  13937
+mul(773,234)  -  180882
+mul(906,13)  -  11778
+mul(239,237)  -  56643
+mul(734,867)  -  636378
+mul(999,334)  -  333666
+mul(764,767)  -  585988
+mul(849,737)  -  625713
+mul(112,47)  -  5264
+mul(942,605)  -  569910
+mul(207,293)  -  60651
+mul(400,524)  -  209600
+mul(849,23)  -  19527
+mul(535,809)  -  432815
+mul(688,711)  -  489168
+mul(495,74)  -  36630
+mul(670,677)  -  453590
+mul(198,88)  -  17424
+mul(88,71)  -  6248
+mul(413,732)  -  302316
+mul(946,282)  -  266772
+mul(944,603)  -  569232
+mul(744,412)  -  306528
+mul(304,180)  -  54720
+mul(562,407)  -  228734
+mul(905,787)  -  712235
+mul(645,995)  -  641775
+mul(411,285)  -  117135
+mul(642,222)  -  142524
+mul(962,312)  -  300144
+mul(490,31)  -  15190
+mul(267,715)  -  190905
+mul(404,883)  -  356732
+mul(673,274)  -  184402
+mul(94,400)  -  37600
+mul(614,499)  -  306386
+mul(75,117)  -  8775
+mul(681,47)  -  32007
+mul(635,773)  -  490855
+mul(514,255)  -  131070
+mul(281,798)  -  224238
+mul(468,659)  -  308412
+mul(57,359)  -  20463
+mul(568,428)  -  243104
+mul(203,107)  -  21721
+mul(991,672)  -  665952
+mul(285,658)  -  187530
+mul(361,464)  -  167504
+mul(658,997)  -  656026
+mul(874,358)  -  312892
+mul(664,429)  -  284856
+mul(586,336)  -  196896
+mul(207,452)  -  93564
+mul(272,646)  -  175712
+mul(201,520)  -  104520
+mul(441,40)  -  17640
+mul(670,732)  -  490440
+mul(250,629)  -  157250
+mul(160,358)  -  57280
+mul(340,875)  -  297500
+mul(446,277)  -  123542
+mul(934,452)  -  422168
+mul(878,762)  -  669036
+mul(734,359)  -  263506
+mul(807,660)  -  532620
+mul(863,221)  -  190723
+mul(139,324)  -  45036
+mul(657,162)  -  106434
+mul(145,462)  -  66990
+mul(455,843)  -  383565
+mul(450,804)  -  361800
+mul(718,128)  -  91904
+mul(855,492)  -  420660
+mul(630,688)  -  433440
+mul(946,971)  -  918566
+mul(88,670)  -  58960
+mul(193,928)  -  179104
+mul(776,879)  -  682104
+mul(725,446)  -  323350
+mul(135,955)  -  128925
+mul(545,478)  -  260510
+mul(593,322)  -  190946
+mul(996,385)  -  383460
+mul(116,9)  -  1044
+mul(716,812)  -  581392
+mul(185,170)  -  31450
+mul(489,880)  -  430320
+mul(615,9)  -  5535
+mul(831,430)  -  357330
+mul(884,837)  -  739908
+mul(571,10)  -  5710
+mul(971,593)  -  575803
+mul(11,968)  -  10648
+mul(195,287)  -  55965
+mul(829,334)  -  276886
+mul(691,485)  -  335135
+mul(67,42)  -  2814
+mul(657,60)  -  39420
+mul(994,216)  -  214704
+mul(235,521)  -  122435
+mul(691,819)  -  565929
+mul(923,522)  -  481806
+mul(582,635)  -  369570
+mul(540,272)  -  146880
+mul(892,661)  -  589612
+mul(395,677)  -  267415
+mul(283,439)  -  124237
+mul(306,827)  -  253062
+mul(715,794)  -  567710
+mul(710,177)  -  125670
+mul(301,438)  -  131838
+mul(315,413)  -  130095
+mul(749,607)  -  454643
+mul(228,105)  -  23940
+mul(458,465)  -  212970
+mul(848,195)  -  165360
+mul(580,113)  -  65540
+mul(271,737)  -  199727
+mul(31,415)  -  12865
+mul(915,200)  -  183000
+mul(519,208)  -  107952
+mul(9,52)  -  468
+mul(450,463)  -  208350
+mul(77,181)  -  13937
+mul(773,234)  -  180882
+mul(906,13)  -  11778
+mul(239,237)  -  56643
+mul(734,867)  -  636378
+mul(999,334)  -  333666
+mul(764,767)  -  585988
+mul(849,737)  -  625713
+mul(112,47)  -  5264
+mul(942,605)  -  569910
+mul(207,293)  -  60651
+mul(400,524)  -  209600
+mul(849,23)  -  19527
+mul(535,809)  -  432815
+mul(688,711)  -  489168
+mul(495,74)  -  36630
+mul(670,677)  -  453590
+mul(198,88)  -  17424
+mul(88,71)  -  6248
+mul(413,732)  -  302316
+mul(946,282)  -  266772
+mul(944,603)  -  569232
+mul(744,412)  -  306528
+mul(304,180)  -  54720
+mul(562,407)  -  228734
+mul(905,787)  -  712235
+mul(645,995)  -  641775
+mul(411,285)  -  117135
+mul(642,222)  -  142524
+mul(962,312)  -  300144
+mul(490,31)  -  15190
+mul(267,715)  -  190905
+mul(404,883)  -  356732
+mul(673,274)  -  184402
+mul(94,400)  -  37600
+mul(614,499)  -  306386
+mul(75,117)  -  8775
+mul(681,47)  -  32007
+mul(635,773)  -  490855
+mul(514,255)  -  131070
+mul(281,798)  -  224238
+mul(468,659)  -  308412
+mul(57,359)  -  20463
+mul(568,428)  -  243104
+mul(203,107)  -  21721
+mul(991,672)  -  665952
+mul(285,658)  -  187530
+mul(361,464)  -  167504
+mul(658,997)  -  656026
+mul(874,358)  -  312892
+mul(664,429)  -  284856
+mul(586,336)  -  196896
+mul(207,452)  -  93564
+mul(272,646)  -  175712
+mul(201,520)  -  104520
+mul(441,40)  -  17640
+mul(670,732)  -  490440
+mul(250,629)  -  157250
+mul(160,358)  -  57280
+mul(340,875)  -  297500
+mul(446,277)  -  123542
+mul(934,452)  -  422168
+mul(878,762)  -  669036
+mul(734,359)  -  263506
+mul(807,660)  -  532620
+mul(863,221)  -  190723
+mul(139,324)  -  45036
+mul(657,162)  -  106434
+mul(145,462)  -  66990
+mul(455,843)  -  383565
+mul(450,804)  -  361800
+mul(718,128)  -  91904
+mul(855,492)  -  420660
+mul(630,688)  -  433440
+mul(946,971)  -  918566
+mul(88,670)  -  58960
+mul(193,928)  -  179104
+mul(776,879)  -  682104
+mul(725,446)  -  323350
+mul(135,955)  -  128925
+mul(545,478)  -  260510
+mul(593,322)  -  190946
+mul(996,385)  -  383460
+mul(116,9)  -  1044
+mul(716,812)  -  581392
+mul(185,170)  -  31450
+mul(489,880)  -  430320
+mul(615,9)  -  5535
+mul(831,430)  -  357330
+mul(884,837)  -  739908
+mul(571,10)  -  5710
+mul(971,593)  -  575803
+mul(11,968)  -  10648
+mul(195,287)  -  55965
+mul(829,334)  -  276886
+mul(691,485)  -  335135
+mul(67,42)  -  2814
+mul(657,60)  -  39420
+mul(994,216)  -  214704
+mul(235,521)  -  122435
+mul(691,819)  -  565929
+mul(923,522)  -  481806
+mul(582,635)  -  369570
+mul(540,272)  -  146880
+mul(892,661)  -  589612
+mul(395,677)  -  267415
+mul(283,439)  -  124237
+mul(306,827)  -  253062
+mul(715,794)  -  567710
+mul(495,74)  -  36630
+mul(670,677)  -  453590
+mul(198,88)  -  17424
+mul(88,71)  -  6248
+mul(413,732)  -  302316
+mul(946,282)  -  266772
+mul(944,603)  -  569232
+mul(744,412)  -  306528
+mul(304,180)  -  54720
+mul(562,407)  -  228734
+mul(905,787)  -  712235
+mul(645,995)  -  641775
+mul(411,285)  -  117135
+mul(642,222)  -  142524
+mul(962,312)  -  300144
+mul(490,31)  -  15190
+mul(267,715)  -  190905
+mul(404,883)  -  356732
+mul(673,274)  -  184402
+mul(94,400)  -  37600
+mul(614,499)  -  306386
+mul(75,117)  -  8775
+mul(681,47)  -  32007
+mul(635,773)  -  490855
+mul(514,255)  -  131070
+mul(281,798)  -  224238
+mul(468,659)  -  308412
+mul(57,359)  -  20463
+mul(568,428)  -  243104
+mul(203,107)  -  21721
+mul(991,672)  -  665952
+mul(285,658)  -  187530
+mul(361,464)  -  167504
+mul(658,997)  -  656026
+mul(874,358)  -  312892
+mul(664,429)  -  284856
+mul(586,336)  -  196896
+mul(207,452)  -  93564
+mul(272,646)  -  175712
+mul(201,520)  -  104520
+mul(441,40)  -  17640
+mul(670,732)  -  490440
+mul(250,629)  -  157250
+mul(160,358)  -  57280
+mul(340,875)  -  297500
+mul(446,277)  -  123542
+mul(934,452)  -  422168
+mul(878,762)  -  669036
+mul(734,359)  -  263506
+mul(807,660)  -  532620
+mul(863,221)  -  190723
+mul(139,324)  -  45036
+mul(657,162)  -  106434
+mul(145,462)  -  66990
+mul(455,843)  -  383565
+mul(450,804)  -  361800
+mul(718,128)  -  91904
+mul(855,492)  -  420660
+mul(630,688)  -  433440
+mul(946,971)  -  918566
+mul(88,670)  -  58960
+mul(193,928)  -  179104
+mul(776,879)  -  682104
+mul(725,446)  -  323350
+mul(135,955)  -  128925
+mul(545,478)  -  260510
+mul(593,322)  -  190946
+mul(996,385)  -  383460
+mul(116,9)  -  1044
+mul(716,812)  -  581392
+mul(185,170)  -  31450
+mul(489,880)  -  430320
+mul(615,9)  -  5535
+mul(831,430)  -  357330
+mul(884,837)  -  739908
+mul(571,10)  -  5710
+mul(971,593)  -  575803
+mul(11,968)  -  10648
+mul(195,287)  -  55965
+mul(829,334)  -  276886
+mul(691,485)  -  335135
+mul(67,42)  -  2814
+mul(657,60)  -  39420
+mul(994,216)  -  214704
+mul(235,521)  -  122435
+mul(691,819)  -  565929
+mul(923,522)  -  481806
+mul(582,635)  -  369570
+mul(540,272)  -  146880
+mul(892,661)  -  589612
+mul(395,677)  -  267415
+mul(283,439)  -  124237
+mul(306,827)  -  253062
+mul(715,794)  -  567710
+mul(75,117)  -  8775
+mul(681,47)  -  32007
+mul(635,773)  -  490855
+mul(514,255)  -  131070
+mul(281,798)  -  224238
+mul(468,659)  -  308412
+mul(57,359)  -  20463
+mul(568,428)  -  243104
+mul(203,107)  -  21721
+mul(991,672)  -  665952
+mul(285,658)  -  187530
+mul(361,464)  -  167504
+mul(658,997)  -  656026
+mul(874,358)  -  312892
+mul(664,429)  -  284856
+mul(586,336)  -  196896
+mul(207,452)  -  93564
+mul(272,646)  -  175712
+mul(201,520)  -  104520
+mul(441,40)  -  17640
+mul(670,732)  -  490440
+mul(250,629)  -  157250
+mul(160,358)  -  57280
+mul(340,875)  -  297500
+mul(446,277)  -  123542
+mul(934,452)  -  422168
+mul(878,762)  -  669036
+mul(734,359)  -  263506
+mul(807,660)  -  532620
+mul(863,221)  -  190723
+mul(139,324)  -  45036
+mul(657,162)  -  106434
+mul(145,462)  -  66990
+mul(455,843)  -  383565
+mul(450,804)  -  361800
+mul(718,128)  -  91904
+mul(855,492)  -  420660
+mul(630,688)  -  433440
+mul(946,971)  -  918566
+mul(88,670)  -  58960
+mul(193,928)  -  179104
+mul(776,879)  -  682104
+mul(725,446)  -  323350
+mul(135,955)  -  128925
+mul(545,478)  -  260510
+mul(593,322)  -  190946
+mul(996,385)  -  383460
+mul(116,9)  -  1044
+mul(716,812)  -  581392
+mul(185,170)  -  31450
+mul(489,880)  -  430320
+mul(615,9)  -  5535
+mul(831,430)  -  357330
+mul(884,837)  -  739908
+mul(571,10)  -  5710
+mul(971,593)  -  575803
+mul(11,968)  -  10648
+mul(195,287)  -  55965
+mul(829,334)  -  276886
+mul(691,485)  -  335135
+mul(67,42)  -  2814
+mul(657,60)  -  39420
+mul(994,216)  -  214704
+mul(235,521)  -  122435
+mul(691,819)  -  565929
+mul(923,522)  -  481806
+mul(582,635)  -  369570
+mul(540,272)  -  146880
+mul(892,661)  -  589612
+mul(395,677)  -  267415
+mul(283,439)  -  124237
+mul(306,827)  -  253062
+mul(715,794)  -  567710
+mul(670,732)  -  490440
+mul(250,629)  -  157250
+mul(160,358)  -  57280
+mul(340,875)  -  297500
+mul(446,277)  -  123542
+mul(934,452)  -  422168
+mul(878,762)  -  669036
+mul(734,359)  -  263506
+mul(807,660)  -  532620
+mul(863,221)  -  190723
+mul(139,324)  -  45036
+mul(657,162)  -  106434
+mul(145,462)  -  66990
+mul(455,843)  -  383565
+mul(450,804)  -  361800
+mul(718,128)  -  91904
+mul(855,492)  -  420660
+mul(630,688)  -  433440
+mul(946,971)  -  918566
+mul(88,670)  -  58960
+mul(193,928)  -  179104
+mul(776,879)  -  682104
+mul(725,446)  -  323350
+mul(135,955)  -  128925
+mul(545,478)  -  260510
+mul(593,322)  -  190946
+mul(996,385)  -  383460
+mul(116,9)  -  1044
+mul(716,812)  -  581392
+mul(185,170)  -  31450
+mul(489,880)  -  430320
+mul(615,9)  -  5535
+mul(831,430)  -  357330
+mul(884,837)  -  739908
+mul(571,10)  -  5710
+mul(971,593)  -  575803
+mul(11,968)  -  10648
+mul(195,287)  -  55965
+mul(829,334)  -  276886
+mul(691,485)  -  335135
+mul(67,42)  -  2814
+mul(657,60)  -  39420
+mul(994,216)  -  214704
+mul(235,521)  -  122435
+mul(691,819)  -  565929
+mul(923,522)  -  481806
+mul(582,635)  -  369570
+mul(540,272)  -  146880
+mul(892,661)  -  589612
+mul(395,677)  -  267415
+mul(283,439)  -  124237
+mul(306,827)  -  253062
+mul(715,794)  -  567710
+mul(139,324)  -  45036
+mul(657,162)  -  106434
+mul(145,462)  -  66990
+mul(455,843)  -  383565
+mul(450,804)  -  361800
+mul(718,128)  -  91904
+mul(855,492)  -  420660
+mul(630,688)  -  433440
+mul(946,971)  -  918566
+mul(88,670)  -  58960
+mul(193,928)  -  179104
+mul(776,879)  -  682104
+mul(725,446)  -  323350
+mul(135,955)  -  128925
+mul(545,478)  -  260510
+mul(593,322)  -  190946
+mul(996,385)  -  383460
+mul(116,9)  -  1044
+mul(716,812)  -  581392
+mul(185,170)  -  31450
+mul(489,880)  -  430320
+mul(615,9)  -  5535
+mul(831,430)  -  357330
+mul(884,837)  -  739908
+mul(571,10)  -  5710
+mul(971,593)  -  575803
+mul(11,968)  -  10648
+mul(195,287)  -  55965
+mul(829,334)  -  276886
+mul(691,485)  -  335135
+mul(67,42)  -  2814
+mul(657,60)  -  39420
+mul(994,216)  -  214704
+mul(235,521)  -  122435
+mul(691,819)  -  565929
+mul(923,522)  -  481806
+mul(582,635)  -  369570
+mul(540,272)  -  146880
+mul(892,661)  -  589612
+mul(395,677)  -  267415
+mul(283,439)  -  124237
+mul(306,827)  -  253062
+mul(715,794)  -  567710
+mul(831,430)  -  357330
+mul(884,837)  -  739908
+mul(571,10)  -  5710
+mul(971,593)  -  575803
+mul(11,968)  -  10648
+mul(195,287)  -  55965
+mul(829,334)  -  276886
+mul(691,485)  -  335135
+mul(67,42)  -  2814
+mul(657,60)  -  39420
+mul(994,216)  -  214704
+mul(235,521)  -  122435
+mul(691,819)  -  565929
+mul(923,522)  -  481806
+mul(582,635)  -  369570
+mul(540,272)  -  146880
+mul(892,661)  -  589612
+mul(395,677)  -  267415
+mul(283,439)  -  124237
+mul(306,827)  -  253062
+mul(715,794)  -  567710
+mul(195,287)  -  55965
+mul(829,334)  -  276886
+mul(691,485)  -  335135
+mul(67,42)  -  2814
+mul(657,60)  -  39420
+mul(994,216)  -  214704
+mul(235,521)  -  122435
+mul(691,819)  -  565929
+mul(923,522)  -  481806
+mul(582,635)  -  369570
+mul(540,272)  -  146880
+mul(892,661)  -  589612
+mul(395,677)  -  267415
+mul(283,439)  -  124237
+mul(306,827)  -  253062
+mul(715,794)  -  567710
+mul(476,619)  -  294644
+mul(558,189)  -  105462
+mul(898,431)  -  387038
+mul(272,96)  -  26112
+mul(114,12)  -  1368
+mul(140,45)  -  6300
+mul(618,246)  -  152028
+mul(699,148)  -  103452
+mul(576,716)  -  412416
+mul(194,425)  -  82450
+mul(286,203)  -  58058
+mul(233,603)  -  140499
+mul(218,435)  -  94830
+mul(447,216)  -  96552
+mul(96,841)  -  80736
+mul(593,92)  -  54556
+mul(33,813)  -  26829
+mul(830,334)  -  277220
+mul(737,927)  -  683199
+mul(904,315)  -  284760
+mul(576,266)  -  153216
+mul(760,106)  -  80560
+mul(238,430)  -  102340
+mul(297,50)  -  14850
+mul(508,388)  -  197104
+mul(677,789)  -  534153
+mul(482,148)  -  71336
+mul(276,776)  -  214176
+mul(991,992)  -  983072
+mul(884,120)  -  106080
+mul(437,916)  -  400292
+mul(110,879)  -  96690
+mul(423,374)  -  158202
+mul(557,663)  -  369291
+mul(751,856)  -  642856
+mul(504,359)  -  180936
+mul(129,586)  -  75594
+mul(795,274)  -  217830
+mul(616,487)  -  299992
+mul(197,217)  -  42749
+mul(119,634)  -  75446
+mul(478,719)  -  343682
+mul(689,28)  -  19292
+mul(7,26)  -  182
+mul(254,465)  -  118110
+mul(381,367)  -  139827
+mul(999,507)  -  506493
+mul(555,656)  -  364080
+mul(844,315)  -  265860
+mul(56,743)  -  41608
+mul(687,63)  -  43281
+mul(689,28)  -  19292
+mul(7,26)  -  182
+mul(254,465)  -  118110
+mul(381,367)  -  139827
+mul(999,507)  -  506493
+mul(555,656)  -  364080
+mul(844,315)  -  265860
+mul(56,743)  -  41608
+mul(687,63)  -  43281
+mul(103,86)  -  8858
+mul(205,551)  -  112955
+mul(511,903)  -  461433
+mul(926,40)  -  37040
+mul(501,105)  -  52605
+mul(810,253)  -  204930
+mul(189,604)  -  114156
+mul(949,622)  -  590278
+mul(895,650)  -  581750
+mul(280,116)  -  32480
+mul(118,570)  -  67260
+mul(103,762)  -  78486
+mul(602,859)  -  517118
+mul(637,550)  -  350350
+mul(137,536)  -  73432
+mul(345,803)  -  277035
+mul(648,629)  -  407592
+mul(722,259)  -  186998
+mul(643,998)  -  641714
+mul(488,727)  -  354776
+mul(382,707)  -  270074
+mul(955,741)  -  707655
+mul(886,423)  -  374778
+mul(661,868)  -  573748
+mul(978,457)  -  446946
+mul(421,976)  -  410896
+mul(79,487)  -  38473
+mul(775,827)  -  640925
+mul(260,742)  -  192920
+mul(614,982)  -  602948
+mul(271,715)  -  193765
+mul(722,687)  -  496014
+mul(934,463)  -  432442
+mul(895,822)  -  735690
+mul(879,833)  -  732207
+mul(750,443)  -  332250
+mul(214,657)  -  140598
+mul(509,725)  -  369025
+mul(911,719)  -  655009
+mul(441,647)  -  285327
+mul(714,781)  -  557634
+mul(506,291)  -  147246
+mul(471,954)  -  449334
+mul(487,853)  -  415411
+mul(117,603)  -  70551
+mul(26,939)  -  24414
+mul(905,612)  -  553860
+mul(479,266)  -  127414
+mul(451,254)  -  114554
+mul(672,957)  -  643104
+mul(460,110)  -  50600
+mul(696,661)  -  460056
+mul(276,105)  -  28980
+mul(634,101)  -  64034
+mul(230,384)  -  88320
+mul(382,707)  -  270074
+mul(955,741)  -  707655
+mul(886,423)  -  374778
+mul(661,868)  -  573748
+mul(978,457)  -  446946
+mul(421,976)  -  410896
+mul(79,487)  -  38473
+mul(775,827)  -  640925
+mul(260,742)  -  192920
+mul(614,982)  -  602948
+mul(271,715)  -  193765
+mul(722,687)  -  496014
+mul(934,463)  -  432442
+mul(895,822)  -  735690
+mul(879,833)  -  732207
+mul(750,443)  -  332250
+mul(214,657)  -  140598
+mul(509,725)  -  369025
+mul(911,719)  -  655009
+mul(441,647)  -  285327
+mul(714,781)  -  557634
+mul(506,291)  -  147246
+mul(471,954)  -  449334
+mul(487,853)  -  415411
+mul(117,603)  -  70551
+mul(26,939)  -  24414
+mul(905,612)  -  553860
+mul(479,266)  -  127414
+mul(451,254)  -  114554
+mul(672,957)  -  643104
+mul(460,110)  -  50600
+mul(696,661)  -  460056
+mul(276,105)  -  28980
+mul(634,101)  -  64034
+mul(230,384)  -  88320
+mul(672,957)  -  643104
+mul(460,110)  -  50600
+mul(696,661)  -  460056
+mul(276,105)  -  28980
+mul(634,101)  -  64034
+mul(230,384)  -  88320
+mul(276,105)  -  28980
+mul(634,101)  -  64034
+mul(230,384)  -  88320
+mul(446,844)  -  376424
+mul(481,966)  -  464646
+mul(657,897)  -  589329
+mul(798,427)  -  340746
+mul(129,609)  -  78561
+mul(529,605)  -  320045
+mul(526,728)  -  382928
+mul(353,423)  -  149319
+mul(715,873)  -  624195
+mul(58,633)  -  36714
+mul(852,860)  -  732720
+mul(859,150)  -  128850
+mul(940,144)  -  135360
+mul(108,347)  -  37476
+mul(345,953)  -  328785
+mul(840,962)  -  808080
+mul(605,595)  -  359975
+mul(309,38)  -  11742
+mul(578,371)  -  214438
+mul(680,773)  -  525640
+mul(858,458)  -  392964
+mul(680,773)  -  525640
+mul(858,458)  -  392964
+mul(858,458)  -  392964
+mul(242,920)  -  222640
+mul(654,14)  -  9156
+mul(395,534)  -  210930
+mul(970,894)  -  867180
+mul(155,986)  -  152830
+mul(605,722)  -  436810
+mul(455,920)  -  418600
+mul(977,500)  -  488500
+mul(238,178)  -  42364
+mul(200,544)  -  108800
+mul(779,866)  -  674614
+mul(998,603)  -  601794
+mul(619,377)  -  233363
+mul(883,286)  -  252538
+mul(605,722)  -  436810
+mul(455,920)  -  418600
+mul(977,500)  -  488500
+mul(238,178)  -  42364
+mul(200,544)  -  108800
+mul(779,866)  -  674614
+mul(998,603)  -  601794
+mul(619,377)  -  233363
+mul(883,286)  -  252538
+mul(56,67)  -  3752
+mul(432,921)  -  397872
+mul(320,602)  -  192640
+mul(285,293)  -  83505
+mul(542,971)  -  526282
+mul(371,889)  -  329819
+mul(143,526)  -  75218
+mul(976,418)  -  407968
+mul(945,948)  -  895860
+mul(756,439)  -  331884
+mul(381,579)  -  220599
+mul(654,823)  -  538242
+mul(448,211)  -  94528
+mul(865,203)  -  175595
+mul(20,584)  -  11680
+mul(231,591)  -  136521
+mul(259,982)  -  254338
+mul(913,11)  -  10043
+mul(374,405)  -  151470
+mul(732,168)  -  122976
+mul(243,963)  -  234009
+mul(367,361)  -  132487
+mul(86,56)  -  4816
+mul(536,351)  -  188136
+mul(792,598)  -  473616
+mul(669,121)  -  80949
+mul(382,343)  -  131026
+mul(620,103)  -  63860
+mul(692,447)  -  309324
+mul(109,165)  -  17985
+mul(83,788)  -  65404
+mul(354,282)  -  99828
+mul(945,948)  -  895860
+mul(756,439)  -  331884
+mul(381,579)  -  220599
+mul(654,823)  -  538242
+mul(448,211)  -  94528
+mul(865,203)  -  175595
+mul(20,584)  -  11680
+mul(231,591)  -  136521
+mul(259,982)  -  254338
+mul(913,11)  -  10043
+mul(374,405)  -  151470
+mul(732,168)  -  122976
+mul(243,963)  -  234009
+mul(367,361)  -  132487
+mul(86,56)  -  4816
+mul(536,351)  -  188136
+mul(792,598)  -  473616
+mul(669,121)  -  80949
+mul(382,343)  -  131026
+mul(620,103)  -  63860
+mul(692,447)  -  309324
+mul(109,165)  -  17985
+mul(83,788)  -  65404
+mul(354,282)  -  99828
+ O resultado final é: [92m 267596537
+[0m
